@@ -4,7 +4,7 @@ It is the project that takes pictures of users on Github.
 
 ### Setup ###
 
-* git clone https://mar3q@bitbucket.org/mar3q/imgtaker.git
+* git clone https://github.com/Owl-planet/GPT.git
 * cd imgtaker
 * npm init
 * npm install --save express ejs
